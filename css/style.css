@@ -20,40 +20,7 @@ img {
 
 
 
-header {
-  background-color: black;
-  padding: 15px 0;
-  font-size: 17px;
-}
 
-.container {
-  width: 980px;
-  margin: 0 auto;
-  /* background-color: #fafafa; */
-}
-
-.header_links {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  list-style: none;
-}
-
-.header_links li a {
-  text-decoration: none;
-  color: #fff;
-}
-
-header ul li {
-  height: 25px;
-  opacity: 0.7;
-}
-
-.logo-link,
-.cart_icon,
-.search_icon {
-  width: 18px;
-}
 
 
 
@@ -93,14 +60,54 @@ style */
 
 /* third section  iphone11 style */
 
-
+/* third section  iphone11 style */
+.iphone11 {
+  background-image: url(../images/home/iphone11-bg.jpg);
+  height: 580px;
+  background-position: center;
+  text-align: center;
+  padding-top: 50px;
+}
 
 /* third section style ends here */
 
 
 
 /* Fourth section style*/
+.apple-flex {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 10px;
+  /* flex-wrap: wrap; */
+}
+.appleWatch {
+  background-image: url(../images/home/watch-series-5.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 580px;
+  width: 49.5%;
+  padding-top: 30px;
 
+  /* background-color: red; */
+}
+
+.appleCard {
+  background-image: url(../images/home/apple-card.jpg);
+  height: 580px;
+  width: 49.5%;
+  /* background: yellow; */
+  background-size: cover;
+  background-position: center;
+  padding-top: 30px;
+}
+
+.apple_description {
+  max-width: 430px;
+  /* background: red; */
+  margin: 0 auto;
+  padding: 15px;
+}
 
 /* Fourth section ends  */
 
