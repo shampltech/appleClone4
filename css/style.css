@@ -38,8 +38,44 @@ img {
 /* First section banner (16-inch MacBook Pro)
 style */
 
+.macbookPro {
+  background-color: #fafafa;
+  text-align: center;
+  padding: 30px 0;
+}
+.title h1 {
+  font-size: 56px;
+  font-weight: 700;
+}
+.descriptionmac p {
+  font-size: 2em;
+}
 
+.model p {
+  font-size: 0.86em;
+}
 
+.links-wrapper ul li {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.links-wrapper ul {
+  margin: 10px 0;
+}
+.links-wrapper ul li a {
+  color: #06c;
+  text-decoration: none;
+}
+.links-wrapper ul li a:hover {
+  color: black;
+}
+.links-wrapper ul li a::after {
+  font-family: "FontAwesome";
+  content: "\f105";
+  font-weight: 900;
+  padding-left: 10px;
+}
 
 
 
