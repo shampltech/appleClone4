@@ -18,8 +18,6 @@ img {
 
 /* Mohammed */
 
-
-
 header {
   background-color: black;
   padding: 15px 0;
@@ -55,16 +53,7 @@ header ul li {
   width: 18px;
 }
 
-
-
-
-
-
-
 /* header style ends here */
-
-
-
 
 /* header style end  */
 
@@ -110,50 +99,46 @@ style */
   padding-left: 10px;
 }
 
-
-
 /* First section end here  */
-
-
-
 
 /* second section starts - iphone 11 pro  */
 
+.iphone11Pro {
+  background-image: url(../Images//home/iphone11-pro-bg.jpg);
+  height: 580px;
+  background-position: center;
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+}
 
+.description p {
+  font-size: 26px;
+  padding: 10px 0;
+}
 
-
-
+.price-tag p {
+  color: #86868b;
+  font-size: 0.85em;
+}
 
 /* second section style ends */
 
 /* third section  iphone11 style */
 
-
-
 /* third section style ends here */
-
-
 
 /* Fourth section style*/
 
-
 /* Fourth section ends  */
-
-
 
 /* Fifth section style start */
 
-
-
 /* Fifth section ends */
 
+/* Sixth section style start */
 
+/* Sixth section style ends here  */
 
- /* Sixth section style start */ 
-
- /* Sixth section style ends here  */
-
-
-
- /* footer styling */
- /* footer style ends */
+/* footer styling */
+/* footer style ends */
